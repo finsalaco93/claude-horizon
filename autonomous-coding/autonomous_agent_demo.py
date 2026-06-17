@@ -21,7 +21,7 @@ from agent import run_autonomous_agent
 
 
 # Configuration
-DEFAULT_MODEL = "claude-sonnet-4-5-20250929"
+DEFAULT_MODEL = "claude-opus-4-8-20250929"
 
 
 def parse_args() -> argparse.Namespace:
